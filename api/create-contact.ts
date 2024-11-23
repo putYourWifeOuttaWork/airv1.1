@@ -1,0 +1,1 @@
+// This file can be deleted as we'll use Netlify functions instead
